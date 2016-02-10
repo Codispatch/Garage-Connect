@@ -1,0 +1,2 @@
+# GarageConnect
+Building a Website and Mobile application to Garage Connect - A Startup to schedule an service appointment to nearest Automobile Franchisee or repair station. Coordinated with bright students from Engineering colleges such as NMAMIT,MIT Manipal on the Architecture of the application. Functionalities to be incorporated,Database Design,UI/UX,Incorporated Multiple features,Business Models,Rapid Prototyping.
