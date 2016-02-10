@@ -1,0 +1,10 @@
+http://www.jqueryscript.net/form/Easy-jQuery-Based-Drop-Down-Select-List-DropKick.html
+
+http://www.jqueryscript.net/demo/Easy-jQuery-Based-Drop-Down-Builder-EasyDropDown/
+
+
+http://codepen.io/jakestuts/pen/tGpju
+
+http://codepen.io/ashblue/pen/mCtuA
+
+http://www.w3schools.com/css/css_table.asp
